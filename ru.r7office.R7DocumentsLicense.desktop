@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+NoDisplay=true
+Icon=ru.r7office.R7DocumentsLicense
+Exec=sailfish-qml ru.r7office.R7DocumentsLicense
+Name=R7DocumentsLicense
+
+[X-Application]
+OrganizationName=ru.r7office
+ApplicationName=R7DocumentsLicense
